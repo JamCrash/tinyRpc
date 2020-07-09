@@ -1,0 +1,8 @@
+{
+  "git.ignoreLimitWarning": true,
+  "files.associations": {
+    "utility": "cpp",
+    "type_traits": "cpp",
+    "tuple": "cpp"
+  }
+}
